@@ -3594,9 +3594,6 @@ input, select, textarea {
     	outline: none;
 	}
 
-	#sidebar nav a:before {
-			background: #3c2c62;
-	}
 
 	#sidebar nav a:after {
     	content: '';
