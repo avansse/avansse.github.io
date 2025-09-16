@@ -1,7 +1,7 @@
 @import url(fontawesome-all.min.css);
 
 /*
-	Hyperspace by HTML5 UP
+	Antoine's website , built on Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
@@ -3236,31 +3236,31 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: #373737;
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #b0b0b0;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #848484;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #b5b5b5;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #909090;
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #bababa;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #9f9f9f;
 		}
 
 		.wrapper.fullscreen {
@@ -3584,10 +3584,14 @@ input, select, textarea {
 
 	#sidebar nav a:hover {
     	color: rgba(255, 255, 255, 0.55);
+		text-decoration: none !important;
+    	outline: none;
 	}
 
 	#sidebar nav a.active {
     	color: #fff;
+		text-decoration: none !important;
+    	outline: none;
 	}
 
 	#sidebar nav a:after {
