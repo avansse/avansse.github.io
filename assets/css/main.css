@@ -3594,6 +3594,10 @@ input, select, textarea {
     	outline: none;
 	}
 
+	#sidebar nav a:before {
+    display: none;
+	}
+
 	#sidebar nav a:after {
     	content: '';
     	position: absolute;
