@@ -151,7 +151,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		border-bottom: dotted 1px rgba(74, 74, 74, 0.35);
+		/*border-bottom: dotted 1px rgba(74, 74, 74, 0.35);*/
 		color: inherit;
 		text-decoration: none;
 	}
@@ -181,10 +181,15 @@ input, select, textarea {
 		margin: 0 0 0.5em 0;
 	}
 
-		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
-			text-decoration: none;
-		}
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	  color: inherit;
+ 	 text-decoration: none;
+ 	 transition: color 0.2s ease; 
+	}
+
+	h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+  	filter: brightness(1.2);
+	}
 
 	h1 {
 		font-size: 2.75em;
