@@ -3387,7 +3387,7 @@ input, select, textarea {
 			border: 0;
 			color: #000000;
 			display: block;
-			font-size: 1.25em;
+			font-size: 1.5em;
 			font-family: 'Poppins', sans-serif;
 			font-weight: 800;
 		}
@@ -3420,8 +3420,9 @@ input, select, textarea {
 						border: 0;
 						color: rgba(168, 168, 168, 0.35);
 						display: inline-block;
-						font-size: 0.6em;
-						font-weight: bold;
+						font-size: 1em;
+						font-family: 'Poppins', sans-serif;
+						font-weight: 600;
 						letter-spacing: 0.25em;
 						text-transform: uppercase;
 					}
