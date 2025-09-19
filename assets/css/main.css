@@ -3519,7 +3519,7 @@ input, select, textarea {
     	padding: 0 2.5em;
    		background: #ffffff;
 	    cursor: default;
-    	height: 3.5em;       /* barre horizontale */
+    	height: 5em;       /* barre horizontale */
     	left: 0;
     	overflow: hidden;    /* plus besoin de scroll */
     	position: fixed;
@@ -3563,7 +3563,7 @@ input, select, textarea {
 
 	#sidebar nav a {
     	color: rgba(81, 80, 80, 0.35);
-    	font-size: 1.25em;
+    	font-size: 1em;
     	font-weight: 600;
     	letter-spacing: 0.25em;
     	text-decoration: none;
