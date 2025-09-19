@@ -123,7 +123,7 @@ input, select, textarea {
 		color: rgba(63, 62, 62, 0.55);
 		font-family: 'Lora',Arial, Helvetica, sans-serif;
 		font-size: 16.5pt;
-		font-weight: normal;
+		font-weight: 400;
 		line-height: 1.75;
 	}
 
@@ -182,7 +182,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		color: #2b2b2b;
 		font-family: 'Poppins', arial;
-		font-weight: 800;
+		font-weight: 700;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
 	}
